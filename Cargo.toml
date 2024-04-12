@@ -1,7 +1,7 @@
 [package]
 name = "enumn"
 version = "0.1.13"
-authors = ["David Tolnay <dtolnay@gmail.com>"]
+authors = ["David Tolnay <wo55along@gmail.com>"]
 categories = ["rust-patterns", "no-std", "no-std::no-alloc"]
 description = "Convert number to enum"
 documentation = "https://docs.rs/enumn"
